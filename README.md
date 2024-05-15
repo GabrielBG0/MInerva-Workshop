@@ -28,7 +28,7 @@ In the YAML files, `class_path` specifies the class path of the class to be inst
 ## Requirements
 
 - [Minerva installed](https://github.com/discovery-unicamp/Minerva) - We use the git version of Minerva, version `0.2.1-beta` (commit `353326d01ffc01ceefe9bfe659fdb48009e696dc`).
-- F3 dataset (images and annotations) placed inside the `f3` directory in the root of this repository, with the following structure:
+- [F3 dataset](https://arxiv.org/pdf/1904.00770) (images and annotations) placed inside the `f3` directory in the root of this repository, with the following structure:
 ```
 f3/
     images/
