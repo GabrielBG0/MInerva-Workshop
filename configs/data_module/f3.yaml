@@ -1,0 +1,9 @@
+class_path: example.F3DataModule
+init_args:
+  train_path: "/workspaces/seismic/Minerva-Workshop/f3/images"
+  annotations_path: "/workspaces/seismic/Minerva-Workshop/f3/annotations"
+  transforms:
+    class_path: example.Padding
+    init_args:
+      target_h_size: 256
+      target_w_size: 704
