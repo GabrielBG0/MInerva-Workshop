@@ -33,29 +33,29 @@ In the YAML files, `class_path` specifies the class path of the class to be inst
 f3/
     images/
         train/
-            il_0.tiff
-            il_1.tiff
+            0.tiff
+            1.tiff
             ...
         val/
-            il_0.tiff
-            il_1.tiff
+            0.tiff
+            1.tiff
             ...
         test/
-            il_0.tiff
-            il_1.tiff
+            0.tiff
+            1.tiff
             ...
     annotations/
         train/
-            il_0.png
-            il_1.png
+            0.png
+            1.png
             ...
         val/
-            il_0.png
-            il_1.png
+            0.png
+            1.png
             ...
         test/
-            il_0.png
-            il_1.png
+            0.png
+            1.png
             ...
 ```
 
